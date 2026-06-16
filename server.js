@@ -37,10 +37,10 @@ function sortearCDZ() {
   }
 
   if (descricao) {
-    return `Seu personagem de Cavaleiros do Zodíaco é: ${nome} — ${descricao}`;
+    return `Você é: ${nome} — ${descricao}`;
   }
 
-  return `Seu personagem de Cavaleiros do Zodíaco é: ${nome}`;
+  return `Você é: ${nome}`;
 }
 
 app.get("/", (req, res) => {
