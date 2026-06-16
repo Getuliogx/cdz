@@ -1,0 +1,76 @@
+Seiya de Pégaso|Cavaleiro de Bronze impulsivo e determinado, sempre disposto a se levantar por Atena e pelos amigos.
+Shiryu de Dragão|Cavaleiro de Bronze honrado e disciplinado, treinado nos Cinco Picos Antigos de Rozan.
+Hyoga de Cisne|Cavaleiro de Bronze frio por fora, sensível por dentro e marcado pela lembrança da mãe.
+Shun de Andrômeda|Cavaleiro de Bronze gentil e pacifista, mas dono de um poder enorme quando precisa lutar.
+Ikki de Fênix|Cavaleiro de Bronze solitário e feroz, irmão de Shun e sobrevivente da Ilha da Rainha da Morte.
+Saori Kido / Atena|Reencarnação da deusa Atena, protegida pelos Cavaleiros de Bronze durante as batalhas do Santuário e Asgard.
+Mitsumasa Kido|Fundador da Fundação Graad, responsável por enviar os órfãos para treinarem como cavaleiros.
+Tatsumi|Mordomo da família Kido, rígido e protetor de Saori.
+Miho|Amiga de infância de Seiya, ligada ao orfanato e ao passado dele.
+Seika|Irmã desaparecida de Seiya, a principal motivação dele para lutar no começo da história.
+Marin de Águia|Cavaleira de Prata e mestra de Seiya, rígida, misteriosa e muito habilidosa.
+Shaina de Cobra|Cavaleira de Prata orgulhosa e intensa, rival de Marin e ligada emocionalmente a Seiya.
+Kiki|Aprendiz de Mu, garoto esperto que ajuda os Cavaleiros de Bronze em momentos importantes.
+Jabu de Unicórnio|Cavaleiro de Bronze participante da Guerra Galáctica, orgulhoso e leal a Saori.
+Ichi de Hidra|Cavaleiro de Bronze que usa veneno em combate e participa da Guerra Galáctica.
+Geki de Urso|Cavaleiro de Bronze forte fisicamente, conhecido por sua força bruta.
+Ban de Leão Menor|Cavaleiro de Bronze participante da Guerra Galáctica.
+Nachi de Lobo|Cavaleiro de Bronze participante da Guerra Galáctica.
+June de Camaleão|Cavaleira de Bronze ligada a Shun, tenta impedir que ele parta para uma batalha perigosa.
+Docrates|Guerreiro enviado pelo Santuário no anime, enorme, brutal e inimigo dos Cavaleiros de Bronze.
+Ennetsu Saint|Cavaleiro do fogo exclusivo do anime clássico, usado pelo Santuário contra os protagonistas.
+Mestre Cristal|Mestre de Hyoga no anime, discípulo de Camus e manipulado pelo Santuário.
+Spartan|Guerreiro com poderes psíquicos enviado pelo Santuário contra os Cavaleiros de Bronze.
+Arachné de Tarântula|Cavaleiro exclusivo do anime, usa teias e ataques ligados a aranhas.
+Cavaleiro Fantasma Golfinho|Guerreiro fantasma exclusivo do anime, ligado ao arco dos Cavaleiros Fantasmas.
+Cavaleiro Fantasma Medusa|Guerreiro fantasma exclusivo do anime, ligado ao arco dos Cavaleiros Fantasmas.
+Cavaleiro Fantasma Serpente Marinha|Guerreiro fantasma exclusivo do anime, ligado ao arco dos Cavaleiros Fantasmas.
+Black Seiya|Cavaleiro Negro de Pégaso, versão sombria de Seiya.
+Black Dragon|Cavaleiro Negro de Dragão, versão sombria de Shiryu.
+Black Cygnus|Cavaleiro Negro de Cisne, versão sombria de Hyoga.
+Black Andromeda|Cavaleiro Negro de Andrômeda, versão sombria de Shun.
+Black Phoenix|Cavaleiro Negro de Fênix, seguidor de Ikki na Ilha da Rainha da Morte.
+Jango|Líder dos Cavaleiros Negros na Ilha da Rainha da Morte.
+Guilty|Mestre cruel de Ikki, responsável por transformar seu coração através do ódio.
+Esmeralda|Garota da Ilha da Rainha da Morte que desperta o lado humano de Ikki.
+Misty de Lagarto|Cavaleiro de Prata vaidoso e poderoso, um dos primeiros grandes inimigos enviados pelo Santuário.
+Moses de Baleia|Cavaleiro de Prata forte e brutal, aliado de Asterion contra Marin.
+Asterion de Cães de Caça|Cavaleiro de Prata capaz de ler pensamentos e prever movimentos.
+Babel de Centauro|Cavaleiro de Prata que usa ataques de fogo contra os Cavaleiros de Bronze.
+Jamian de Corvo|Cavaleiro de Prata que controla corvos e tenta sequestrar Saori.
+Capella de Auriga|Cavaleiro de Prata que usa discos cortantes em combate.
+Dante de Cérbero|Cavaleiro de Prata que usa correntes e ataca os Cavaleiros de Bronze.
+Algol de Perseu|Cavaleiro de Prata com o escudo da Medusa, capaz de petrificar seus inimigos.
+Sirius de Cão Maior|Cavaleiro de Prata enviado pelo Santuário contra os Cavaleiros de Bronze.
+Dio de Mosca|Cavaleiro de Prata enviado pelo Santuário contra os protagonistas.
+Algethi de Hércules|Cavaleiro de Prata de força imensa, participa do ataque contra Seiya.
+Ptolemy de Flecha|Cavaleiro de Prata que acerta Saori com a flecha dourada, iniciando a corrida pelas Doze Casas.
+Orfeu de Lira|Cavaleiro de Prata músico do anime clássico, ligado ao amor por Eurídice.
+Eurídice|Amada de Orfeu de Lira, presa a uma tragédia que marca a história dele.
+Mu de Áries|Cavaleiro de Ouro de Áries, calmo, sábio e mestre no conserto de armaduras.
+Aldebaran de Touro|Cavaleiro de Ouro de Touro, poderoso, honrado e dono do Grande Chifre.
+Saga de Gêmeos|Cavaleiro de Ouro de Gêmeos, dividido entre luz e trevas e principal força por trás da crise do Santuário.
+Máscara da Morte de Câncer|Cavaleiro de Ouro cruel e sádico, acredita que a força define a justiça.
+Aiolia de Leão|Cavaleiro de Ouro de Leão, irmão de Aiolos, leal a Atena e dono do Relâmpago de Plasma.
+Shaka de Virgem|Cavaleiro de Ouro de Virgem, considerado o homem mais próximo de Deus.
+Dohko de Libra|Mestre de Shiryu e Cavaleiro de Ouro de Libra, guardião dos Cinco Picos Antigos.
+Milo de Escorpião|Cavaleiro de Ouro de Escorpião, orgulhoso, letal e usuário da Agulha Escarlate.
+Aiolos de Sagitário|Cavaleiro de Ouro de Sagitário, herói que salvou Atena ainda bebê.
+Shura de Capricórnio|Cavaleiro de Ouro de Capricórnio, dono da Excalibur e inicialmente fiel ao falso mestre.
+Camus de Aquário|Cavaleiro de Ouro de Aquário e mestre de Hyoga no mangá, guerreiro frio e disciplinado.
+Afrodite de Peixes|Cavaleiro de Ouro de Peixes, belo, perigoso e usuário de rosas mortais.
+Mestre Ancião|Forma envelhecida de Dohko de Libra, mestre de Shiryu em Rozan.
+Grande Mestre / Saga|Líder falso do Santuário, identidade usada por Saga para controlar os cavaleiros.
+Cassios|Discípulo de Shaina, enorme e apaixonado por ela, rivaliza com Seiya pela Armadura de Pégaso.
+Freya|Irmã de Hilda de Polaris, ajuda os Cavaleiros de Bronze durante a crise de Asgard.
+Hilda de Polaris|Sacerdotisa de Odin em Asgard, corrompida pelo Anel dos Nibelungos.
+Odin|Deus protetor de Asgard, ligado à armadura divina que surge no final da saga.
+Siegfried de Dubhe Alpha|Guerreiro Deus mais poderoso de Asgard, leal a Hilda e inspirado na lenda do dragão.
+Hagen de Merak Beta|Guerreiro Deus de Asgard, amigo de infância de Freya e usuário de fogo e gelo.
+Thor de Phecda Gamma|Guerreiro Deus gigante e forte, profundamente grato a Hilda.
+Alberich de Megrez Delta|Guerreiro Deus frio, ambicioso e manipulador, usa inteligência e a natureza em combate.
+Fenrir de Alioth Epsilon|Guerreiro Deus criado por lobos, selvagem e ressentido contra os humanos.
+Syd de Mizar Zeta|Guerreiro Deus veloz e orgulhoso, luta como representante oficial da estrela Zeta.
+Bud de Alcor Zeta|Irmão gêmeo de Syd, vive nas sombras e carrega rancor por seu destino.
+Mime de Benetnasch Eta|Guerreiro Deus músico, sensível e trágico, marcado pelo passado com Folken.
+Folken|Pai adotivo de Mime, ligado à tragédia que define o Guerreiro Deus de Benetnasch.
